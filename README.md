@@ -13,3 +13,9 @@ Informatyka techniczna, semestr 2, lato 2026
 ### Projekty 
 
 - [Jan Kranz, Adam Miękisiak](https://github.com/ITE-2025-PWR/sem2-po-projekt-tama-jk)
+
+## Grupy mgr inż. Karola Puchały
+
+### Projekty
+
+- [Filip Klich, Michał Sikora](https://github.com/ITE-2025-PWR/sem2-po-projekt-puch-fk)
